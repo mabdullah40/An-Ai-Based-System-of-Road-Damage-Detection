@@ -57,3 +57,14 @@ The project uses the following Python libraries, as specified in `requirements.t
 - `sort`
 - `matplotlib`
 - `fpdf`
+## Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+- Fork the repository
+- Create a new branch (git checkout -b feature-branch)
+- Make your changes
+- Commit your changes (git commit -m 'Add new feature')
+- Push to the branch (git push origin feature-branch)
+- Open a pull request
+## Issues
+If you encounter any issues or have any questions about the project, please feel free to open an issue in the GitHub repository.
