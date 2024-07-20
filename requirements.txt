@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+Pillow
+numpy
+ultralytics
+cvzone
+sort
+matplotlib
+fpdf
