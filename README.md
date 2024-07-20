@@ -20,7 +20,7 @@ This project is a road damage detection application built using Streamlit and YO
 This dataset is available on kaggle
 
 ## Add Efficiency
-- Due to the shortage of resourse this model is trained for 20 Epochs you can increse it epoch to make the model much more efficent.
+- Due to the shortage of resourse this model is trained for 20 Epochs in two rounds you can increse it epoch to make the model much more efficent.
 - Must have an eye on the model perfformance to not to overfit it.
 
 ## Technical Details
