@@ -16,8 +16,12 @@ This project is a road damage detection application built using Streamlit and YO
   - Transverse Cracks
 - **PDF Report Generation**: Generate a PDF report summarizing the detected road damages, including the total number of damages and the count of each type of damage.
 
-## Dataset 
-This dataset is available on kaggle
+## Dataset
+
+This dataset is available on Kaggle. You can access it using the following link:
+
+[Road Damage Detection Dataset](https://www.kaggle.com/datasets/mohammadabdullah407/road-damage-detection-7-classes)
+
 
 ## Add Efficiency
 - Due to the shortage of resourse this model is trained for 20 Epochs in two rounds you can increse it epoch to make the model much more efficent.
